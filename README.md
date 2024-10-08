@@ -14,4 +14,4 @@ streamlit run dashboard.py
 ```
 
 ## Open Deployed streamlit app
-[Click here to open streamlit deployed app](https://heartdisease-diagnosis-mlproject-dqlab.streamlit.app)
+[Click here to open streamlit deployed app](https://ml-heartdisease-diagnosis-project.streamlit.app/)
